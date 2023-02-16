@@ -1,5 +1,7 @@
 public class Calculator 
 {
+	// A Primative Calculator...
+
 	public static void main(String[] args)
 	{
 		public int addition(int a, int b)
@@ -32,7 +34,6 @@ public class Calculator
 	{
 		return a * b;
 	}
-
 	public double multiply(double a, double b)
 	{
 		return a * b;
