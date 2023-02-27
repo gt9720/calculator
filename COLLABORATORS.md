@@ -1,4 +1,2 @@
 #  Collaborators
 *  francois
-#  Collaborators
-*    gregt
